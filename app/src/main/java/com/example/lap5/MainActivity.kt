@@ -14,6 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.lap5.components.Lap5
 import com.example.lap5.components.Lap6
+import com.example.lap5.components.Lap7
 
 
 import com.example.lap5.ui.theme.Lap5Theme
